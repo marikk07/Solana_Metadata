@@ -1,13 +1,12 @@
 {
-    "name": "Ali Baba",
-    "symbol": "BABA",
-    "description": "Test token",
-    "image": "https://t3.ftcdn.net/jpg/04/71/25/40/360_F_471254027_Kzfq4w53tsfSyxvQjH11NfP5YP70jf7y.jpg",
+    "name": "OPOS",
+    "symbol": "OPOS",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
     "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare"
-        }
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
     ]
-}
-
+  }
